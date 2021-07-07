@@ -1,0 +1,7 @@
+package demoapp;
+
+public class Employee {
+	int empId;
+	String empName;
+
+}
