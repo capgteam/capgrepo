@@ -10,7 +10,7 @@ public class User {
 		int sum=0;
 		for(int num:arr)
 			sum+=num;
-		
+		System.out.println(sum);
 		return sum;
 	}
 }
